@@ -2,6 +2,8 @@
 
 # DMF 48-Channel Controller
 
+![Type: Course Project](https://img.shields.io/badge/Type-Course%20Project-64748B?style=flat-square)
+
 A Python/PyQt5 desktop control application for digital microfluidic experiments, combining electrode-grid visualization, droplet path planning, chip testing and real-time serial control.
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://python.org)

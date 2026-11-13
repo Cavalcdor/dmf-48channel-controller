@@ -2,6 +2,8 @@
 
 # DMF 48通道数字微流控控制器上位机
 
+![Type: Course Project](https://img.shields.io/badge/Type-Course%20Project-64748B?style=flat-square)
+
 <div align="center">
 
 **商业级微流控液滴操控可视化控制平台**
